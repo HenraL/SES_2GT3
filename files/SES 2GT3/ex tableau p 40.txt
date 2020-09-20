@@ -1,0 +1,13 @@
+._________________________________________________________________________________________________________________________________________________________.
+|___________________________|______Ep_____|_____Tmg_____|________PBS________________|________PMNM_______|__________PC_______________|___________D_________|
+|boulangerie et dentiste    |privée|privée|petite|petite|  biens  |services         |marchande|marchande|Privée/Taille/Marchande    | Biens et services   |
+|___________________________|______|______|______|______|_________|_________________|_________|_________|___________________________|_____________________|
+|Dentistes et PME bâtiments |privée|privée|petite|p ou m|services |biens ou services|marchande|marchande|privée/marchande/B et/ou S | taille              |
+|___________________________|______|______|______|______|_________|_________________|_________|_________|___________________________|_____________________|
+|PME bâtiment et SNCF       |privée|public|p ou m|grande|biens    |services         |marchande|marchande|marchande                  |Ep/taille/biens/     |
+|                           |      |      |      |      |/services|                 |         |         |                           |services/            |
+|___________________________|______|______|______|______|_________|_________________|_________|_________|___________________________|_____________________|
+|SNCF et Danone             |public|privée|grande|grande|services |biens            |marchande|marchande|taille/marchande           |pu/prix/service/biens|
+|___________________________|______|______|______|______|_________|_________________|_________|_________|___________________________|_____________________|
+|Danone et BNP Paribas      |privée|privée|grande|grande|biens    |services         |marchande|marchande|privée/grande/marchande    |biens/services       |
+|___________________________|______|______|______|______|_________|_________________|_________|_________|___________________________|_____________________|
